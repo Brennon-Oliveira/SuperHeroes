@@ -1,8 +1,0 @@
-[submodule "SuperHeroesFront"]
-	path = ./SuperHeroesFront
-	url = https://github.com/Brennon-Oliveira/SuperHeroesFront.git
-	shallow = true
-[submodule "SuperHeroesApi"]
-	path = ./SuperHeroesApi
-	url = https://github.com/Brennon-Oliveira/SuperHeroesApi.git
-	shallow = true
